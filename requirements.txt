@@ -1,0 +1,7 @@
+ultralytics>=8.0.0
+opencv-python
+matplotlib
+gradio==3.25.0
+fastapi==0.95.0
+uvicorn==0.22.0
+jupyterlab
